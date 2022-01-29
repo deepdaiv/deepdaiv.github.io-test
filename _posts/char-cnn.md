@@ -8,7 +8,7 @@ author:
 
 tags: 
   - CNN
-  - NLPtruetoc:T
+  - NLP
 
 date: January 3, 2022 11:39 PM
 ---
