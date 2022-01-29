@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 
 title                    : deep daiv 
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "This is subtitle loc." # site tagline that appears below site title in masthead
 name                     : "Team deep daiv"
 description              : "An amazing website."
 url                      : "https://deepdaiv.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,7 +106,7 @@ author:
   name             : "deep daiv"
   avatar           : "/assets/images/deep_daiv.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are interested in Artificial Intelligence"
-  location         : "Somewhere"
+  location         : "Seoul, S.Korea"
   email            :
   links:
     - label: "Email"
