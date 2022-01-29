@@ -1,5 +1,5 @@
 ---
-layout:Posts
+layout:post
 title: "Character-level convolutional networks for text classification"
 date: January 3, 2022 11:39 PM
 author: 제이엠, 꼬영, 제니
