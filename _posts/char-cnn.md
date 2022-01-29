@@ -1,6 +1,6 @@
 ---
 title: "Character-level convolutional networks for text classification"
-premalink: /posts/
+permalink: /posts/
 layout: single
 author: 
   - 제이엠
