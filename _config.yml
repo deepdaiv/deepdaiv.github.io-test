@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 
-title                    : deep daiv 
+title                    : deep daiv's blog
 title_separator          : "-"
-subtitle                 : "This is subtitle loc." # site tagline that appears below site title in masthead
+subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "Team deep daiv"
 description              : "An amazing website."
 url                      : "https://deepdaiv.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "deep daiv"
   avatar           : "/assets/images/deep_daiv.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "We are interested in Artificial Intelligence"
+  bio              : "We are interested in Artificial Intelligence. And we write about artificial intelligence in various fields."
   location         : "Seoul, S.Korea"
   email            :
   links:
