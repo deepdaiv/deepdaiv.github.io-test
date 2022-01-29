@@ -1,5 +1,5 @@
 ---
-premalink: /about/
+permalink: /about/
 title: "About Us"
 excerpt: "about.md"
 layout: single
