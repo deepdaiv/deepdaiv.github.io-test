@@ -1,6 +1,6 @@
 ---
 premalink: /about/
-title: "About"
+title: "About Us"
 excerpt: "about.md"
 tags: [About]
 ---
