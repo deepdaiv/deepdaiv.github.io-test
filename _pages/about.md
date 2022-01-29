@@ -5,7 +5,7 @@ excerpt: "about.md"
 layout: single
 ---
 
-## deep daiv people
+## people
 1. 프로젝트 리더 : 이성배
 2. 운영진 소개
 ~~
