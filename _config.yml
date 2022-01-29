@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 
-title                    : deep daiv's blog
+title                    : 
 title_separator          : "-"
 subtitle                 :  # site tagline that appears below site title in masthead
-name                     : #"deep daiv's blog"
+name                     : 
 description              : "An amazing website."
 url                      : "https://deepdaiv.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "deep daiv's blog"
+  name             : "Team. deep daiv"
   avatar           : #"/assets/images/deep_daiv.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are interested in Artificial Intelligence. And we write about artificial intelligence in various fields."
   location         : "Seoul, S.Korea"
