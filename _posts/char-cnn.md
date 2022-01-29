@@ -1,23 +1,19 @@
 ---
 title: "Character-level convolutional networks for text classification"
-layout: single
+
 author: 
   - 제이엠
   - 꼬영
   - 제니
+
 tags: 
   - CNN
-  - NLP
+  - NLPtruetoc:T
+
 date: January 3, 2022 11:39 PM
 ---
 
 # Character-level convolutional networks for text classification
-
-'''
-property: NLP
-작성일자: January 3, 2022 11:39 PM
-팀원: 제이엠, 꼬영, 제니
-'''
 
 1. [**논문 선정 배경**](Character-level%20convolutional%20networks%20for%20text%20cl%20722cf4cfd2004f57a33c6a1db5dc9232.md)
 2. [Introduction](Character-level%20convolutional%20networks%20for%20text%20cl%20722cf4cfd2004f57a33c6a1db5dc9232.md)
