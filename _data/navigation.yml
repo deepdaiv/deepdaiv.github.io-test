@@ -1,11 +1,14 @@
 # main links
 main:
-  - title: "About Us"
-    url: /about/
-  - title: "Posts" 
-    url: /posts/
+  - title: "Home"
+    url: https://deepdaiv.github.io
+  
   - title: "Tags"
     url: /tags/
+
+  - title: "About Us"
+    url: /about/
+  
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
