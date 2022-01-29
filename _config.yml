@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 
-title                    : "/assets/images/deep_daiv.png"
+title                    : deep daiv #"/assets/images/deep_daiv.png"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "deep daiv"
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "deep daiv"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/deep_daiv.png"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "We are interested in Artificial Intelligence"
   location         : "Somewhere"
   email            :
